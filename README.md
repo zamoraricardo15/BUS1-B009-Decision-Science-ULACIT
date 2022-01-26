@@ -12,13 +12,14 @@ First steps for GitHub:
 https://www.linkedin.com/learning/introducing-jupyter/distributing-on-github?autoAdvance=true&autoSkip=false&autoplay=true&resume=false&u=2101329
 
 
+
 Topic 1. Thought and decision
 
-• Computational, behavioral and cognitive theory
+  • Computational, behavioral and cognitive theory
 
-• The quality of the choice: rationality
+  • The quality of the choice: rationality
 
-• The modern theory of decision making
+  • The modern theory of decision making
 
 Topic 2. The fundamental strategy of the trial: anchoring and adjustment
 
