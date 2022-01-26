@@ -1,5 +1,7 @@
 # BUS1-B009_Decision-Science_ULACIT
 
+##WEEK 1
+
 First steps for Python:
 https://www.linkedin.com/learning/python-data-analysis-2/what-you-need-to-know?autoAdvance=true&autoSkip=true&autoplay=true&resume=false&u=2101329
 
