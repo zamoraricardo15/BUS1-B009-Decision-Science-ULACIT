@@ -13,8 +13,11 @@ https://www.linkedin.com/learning/introducing-jupyter/distributing-on-github?aut
 
 
 Topic 1. Thought and decision
+
 • Computational, behavioral and cognitive theory
+
 • The quality of the choice: rationality
+
 • The modern theory of decision making
 
 Topic 2. The fundamental strategy of the trial: anchoring and adjustment
