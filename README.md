@@ -19,10 +19,15 @@ Topic 1. Decision Sciences
 
 • Difference between decision science and data science
 
+
 Topic 2. Thought and decision
+
 • Decision theory
+
 • Computational, behavioral and cognitive theory
+
 • The quality of the choice: rationality
+
 • The modern theory of decision making
 
 Topic 3. The fundamental strategy of the trial: anchoring and adjustment
