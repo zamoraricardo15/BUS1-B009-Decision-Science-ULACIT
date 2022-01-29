@@ -14,7 +14,9 @@ https://www.linkedin.com/learning/introducing-jupyter/distributing-on-github?aut
 
 ## Course Outline
 Topic 1. Decision Sciences
+
 • Decision science applications
+
 • Difference between decision science and data science
 
 Topic 2. Thought and decision
